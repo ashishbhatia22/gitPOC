@@ -12,7 +12,7 @@ handler to invoke for each Lambda event and the JSON serializer to use for conve
 
 The function handler is a simple method accepting a string argument that returns the uppercase equivalent of the input string. Replace the body of this method and its parameters to suit your needs.
 
-## Native AOT
+## Native AOT test
 
 Native AOT is a feature of .NET 7 that compiles .NET assemblies into a single native executable. By using the native executable the .NET runtime 
 is not required to be installed on the target platform. Native AOT can significantly improve Lambda cold starts for .NET Lambda functions. 
