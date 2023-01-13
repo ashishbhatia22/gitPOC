@@ -4,3 +4,8 @@
 
 /AWSLambda/.vs/AWSLambda
 /AWSLambda/AWSLambda/obj
+/AWSLambda/.vs/ProjectEvaluation
+/AzureAuthentication/.vs/AzureAuthentication
+/AzureAuthentication/AzureAuthentication/bin/Debug/net6.0
+/AzureAuthentication/AzureAuthentication/obj
+/AzureAuthentication/AzureAuthentication/wwwroot/lib
